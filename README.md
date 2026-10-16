@@ -281,6 +281,10 @@ Region-based access control with **5 roles**:
 > ℹ️ Members are assigned **in the Power BI Service** after publishing
 > (Dataset → *Security*), keeping the local `.pbix` free of personal accounts.
 
+**What a user in a region role sees** — the report automatically filtered to their region only:
+
+![Row-Level Security](screenshots/04-row-level-security.png)
+
 ---
 
 ## 📌 Key Insights
@@ -308,7 +312,8 @@ Superstore-PowerBI-Dashboard/
 ├── screenshots/
 │   ├── 01-executive-summary.png
 │   ├── 02-product-analysis.png
-│   └── 03-product-details.png
+│   ├── 03-product-details.png
+│   └── 04-row-level-security.png
 ├── README.md
 └── .gitignore
 ```
