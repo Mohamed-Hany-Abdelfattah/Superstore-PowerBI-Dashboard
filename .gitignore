@@ -1,0 +1,16 @@
+# Windows
+Thumbs.db
+desktop.ini
+
+# Office temp files
+~$*
+
+# Power BI temp
+*.pbix~
+*.pbit
+.pbi/
+
+# Editors
+.vscode/
+.idea/
+*.swp
