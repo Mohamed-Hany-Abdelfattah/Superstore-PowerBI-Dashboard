@@ -15,24 +15,6 @@ an interactive, executive-ready analytics product — built entirely in Microsof
 
 ---
 
-## 📑 Table of Contents
-
-- [Business Scenario](#-business-scenario)
-- [Solution Workflow](#-solution-workflow)
-- [Tech Stack](#-tech-stack)
-- [Dataset](#-dataset)
-- [Data Model](#-data-model)
-- [DAX Measures](#-dax-measures-16)
-- [Calculated Columns](#-calculated-columns-3)
-- [Report Pages](#-report-pages)
-- [Row-Level Security](#-row-level-security-rls)
-- [Key Insights](#-key-insights)
-- [Repository Structure](#-repository-structure)
-- [Getting Started](#-getting-started)
-- [Author](#-author)
-
----
-
 ## 🎯 Business Scenario
 
 The retail company relies on the **Sample Superstore** transactional dataset but has no single source
