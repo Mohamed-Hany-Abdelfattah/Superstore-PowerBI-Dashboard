@@ -1,5 +1,7 @@
 # 📊 Superstore Power BI Dashboard
 
+![Executive Summary](screenshots/01-executive-summary.png)
+
 **An end-to-end Business Intelligence solution that turns four years of retail transaction data into
 an interactive, executive-ready analytics product — built entirely in Microsoft Power BI.**
 
